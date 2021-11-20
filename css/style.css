@@ -23,6 +23,12 @@ line-height: 20px;
 font-weight: 530;
 }
 
+p.subs{
+font-size: 13px;
+font-weight: 600;
+line-height: 0px;
+}
+
 a {
 
 }
@@ -39,6 +45,7 @@ width: 150px;
 .tag{
 color: #554AF0;
 font-weight: 540;
+
 }
 
 
@@ -94,13 +101,34 @@ margin: 8px 0 4px 0;
 }
 
 
+/* Страничка подписки */
+.genre-month {
+background: #E1F5EA;
+font-size: 13px;
+font-weight: bolder;
+border-radius: 4px;
+padding: 3px 0 8px 14px;
+border-width: 0px;
+margin: 15px 10px 0 0;
+}
+
+.genre-year {
+background: #EBDCF9;
+font-size: 13px;
+font-weight: bolder;
+border-radius: 4px;
+padding: 3px 0 8px 14px;
+border-width: 0px;
+margin: 15px 10px 0 0;
+}
+
 /* Страничка жанров и тегов */
 
 .genre-first {
 background: #E1F5EA;
 font-size: 13px;
 font-weight: bolder;
-border-radius: 2px;
+border-radius: 4px;
 padding: 9px 14px;
 border-width: 0px;
 margin: 15px 10px 0 0;
@@ -111,7 +139,7 @@ background: #CBEDFF;
 width: 220px;
 font-size: 13px;
 font-weight: bolder;
-border-radius: 2px;
+border-radius: 4px;
 padding: 9px 14px;
 border-width: 0px;
 margin: 15px 10px 0 0;
@@ -122,7 +150,7 @@ background: #FBECDD;
 width: 150px;
 font-size: 13px;
 font-weight: bolder;
-border-radius: 2px;
+border-radius: 4px;
 padding: 9px 14px;
 border-width: 0px;
 margin: 15px 10px 0 0;
@@ -133,7 +161,7 @@ background: #EBDCF9;
 width: 90px;
 font-size: 13px;
 font-weight: bolder;
-border-radius: 2px;
+border-radius: 4px;
 padding: 9px 14px;
 border-width: 0px;
 margin: 15px 10px 0 0;
