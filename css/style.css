@@ -45,7 +45,14 @@ font-weight: 540;
 /* Потом селекторы по классам */
 
 .text-input {
-
+color: #d7d7d7;
+width: 250px;
+border-color: #d7d7d7;
+border-style: solid;
+border-radius: 4px;
+border-width: 1.7px;
+padding: 8px 8px;
+margin: 8px 0 4px 0;
 
 }
 
