@@ -18,7 +18,9 @@ main {
 }
 
 p {
-
+font-size: 12px;
+line-height: 20px;
+font-weight: 500;
 }
 
 a {
@@ -50,6 +52,18 @@ padding: 7px 13px;
 border-width: 0px;
 margin: 15px 0 0 0;
 }
+
+.button-link {
+font-size: 13px;
+text-decoration: none;
+background: #554AF0;
+color: white;
+border-radius: 4px;
+padding: 9px 17px;
+border-width: 0px;
+margin: 15px 10px 0 0;
+}
+
 
 /* Потом специальные правила по страничкам */
 
@@ -94,7 +108,6 @@ margin: 8px 0 4px 0;
 
 .row{
 display: flex;
-
 
 }
 
