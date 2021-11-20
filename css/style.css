@@ -20,7 +20,7 @@ main {
 p {
 font-size: 12px;
 line-height: 20px;
-font-weight: 500;
+font-weight: 530;
 }
 
 a {
@@ -33,7 +33,12 @@ a {
 
 }
 .col {
+width: 150px;
 
+}
+.tag{
+color: #554AF0;
+font-weight: 540;
 }
 
 
@@ -85,19 +90,46 @@ margin: 8px 0 4px 0;
 /* Страничка жанров и тегов */
 
 .genre-first {
-
+background: #E1F5EA;
+font-size: 13px;
+font-weight: bolder;
+border-radius: 2px;
+padding: 9px 14px;
+border-width: 0px;
+margin: 15px 10px 0 0;
 }
 
 .genre-second {
-
+background: #CBEDFF;
+width: 220px;
+font-size: 13px;
+font-weight: bolder;
+border-radius: 2px;
+padding: 9px 14px;
+border-width: 0px;
+margin: 15px 10px 0 0;
 }
 
 .genre-third {
-
+background: #FBECDD;
+width: 150px;
+font-size: 13px;
+font-weight: bolder;
+border-radius: 2px;
+padding: 9px 14px;
+border-width: 0px;
+margin: 15px 10px 0 0;
 }
 
 .genre-fourth {
-
+background: #EBDCF9;
+width: 90px;
+font-size: 13px;
+font-weight: bolder;
+border-radius: 2px;
+padding: 9px 14px;
+border-width: 0px;
+margin: 15px 10px 0 0;
 }
 
 .tag {
