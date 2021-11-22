@@ -36,8 +36,11 @@ a {
 /* Колонки */
 
 .row {
+display: flex;
 
 }
+
+
 .col {
 width: 150px;
 
